@@ -2,6 +2,14 @@
 
 ## Organizado como parte da escola de verão de Jyvashyla
 
+### Course site
+
+[site](https://www.helsinki.fi/en/researchgroups/statistical-ecology/software/hmsc)
+
+## Schedule
+
+---
+
 ### Monday 15th August 2022
 
 *Plenary sessions*
@@ -40,6 +48,8 @@ Video
 Material
 - [Case study: Exercises](https://www.dropbox.com/s/xqlx2t1brr7p9mx/case%20study%20exercises.zip?dl=0)
 
+---
+
 ### Tuesday 16th August 2022
 
 *Plenary sessions*
@@ -61,7 +71,9 @@ Videos
 
 Exercise 2. Continue from Exercise 1 by defining a full HMSC model (with traits, phylogeny, and random effects) and apply the Hmsc pipeline to produce some basic model outputs.
 
-Wednesday 17th August 2022
+---
+
+### Wednesday 17th August 2022
 
 *Plenary sessions*
 
@@ -73,19 +85,19 @@ Wednesday 17th August 2022
 - R demonstration (by Gleb Tikhonov). How to modify the prior distributions and make choices related to posterior sampling.
 
 Slides
-- [L3 fixed and random effects](https://www.helsinki.fi/assets/drupal/2022-08/L3%20fixed%20and%20random%20effects_160822.pdf)
-- [L4 lecture_by_Sara_Taskinen](https://www.helsinki.fi/assets/drupal/2022-08/L4_lecture_by_Sara_Taskinen.pdf)
+- [L5 How is HMSC fitted to data](https://www.helsinki.fi/assets/drupal/2022-08/L5_How%20is%20HMSC%20fitted%20to%20data.pdf)
 
 Videos
-- [Recap of Exercise 3](https://youtu.be/_zylFuNq7Pk)
-- [L3 fixed and random effects](https://youtu.be/N4nxpPLgx9M?t=4682)
-- [L4 lecture_by_Sara_Taskinen](https://youtu.be/8lm3DErb2mY)
+- [Recap of Exercise 2](https://youtu.be/_zylFuNq7Pk)
+- [L5 How is HMSC fitted to data](https://youtu.be/N4nxpPLgx9M?t=4682)
 
 *Break-out groups*
 
 - Exercise 3. Continue from Exercise 2 by checking MCMC convergence, examining model fit, and making predictions over environmental gradients.
 
-Thursday 18th August 2022
+---
+
+### Thursday 18th August 2022
 
 *Plenary sessions*
 
@@ -94,6 +106,13 @@ Thursday 18th August 2022
 - R demonstration (by Otso Ovaskainen). Setting up different response distributions.
 - R demonstration (by Otso Ovaskainen). Making predictions over spatial gradients.
 - Lecture and R demonstration (by Otso Ovaskainen). Variable selection, reduced rank regression, and other methods to deal with cases with many potential covariates.
+
+Slides
+- [L6](https://www.helsinki.fi/assets/drupal/2022-08/L5_How%20is%20HMSC%20fitted%20to%20data.pdf)
+
+Videos
+- [Recap of Exercise 3](https://youtu.be/ly2-8uEJ5HI)
+- [L6](https://youtu.be/8lm3DErb2mY)
 
 *Break-out groups*
 
@@ -107,6 +126,15 @@ Friday 19th August 2022
 - Discussion session (lead by Otso Ovaskainen, Gleb Tikhonov and Jari Oksanen). Recent and future development needs of HMSC: Overview of recently implemented and ongoing developments, and discussion on what users would like to see implemented.
 - Discussion session. Based, e.g., on questions that came up during lectures and/or break-out groups that could not have been addressed there.
 
+Slides
+- [L7](https://www.helsinki.fi/assets/drupal/2022-08/L5_How%20is%20HMSC%20fitted%20to%20data.pdf)
+
+Videos
+- [Recap of Exercise 4](https://youtu.be/nZy-ic6j4bI)
+- [L7](https://youtu.be/N4nxpPLgx9M?t=4682)
+
 *Break-out groups*
 
 - In the break-out groups, discussions on topics suggested by the participants, including guidance on working with their own data.
+
+---
