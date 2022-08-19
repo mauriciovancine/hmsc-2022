@@ -12,6 +12,10 @@
 - R demonstration (by Otso Ovaskainen). What is the Hmsc pipeline and how to apply it? Setting up a model, fitting it, and producing standard output.
 - Lecture (by Otso Ovaskainen). Introduction to the case study to be used in the break-out groups.
 
+Slides
+- [L1 welcome](https://www.helsinki.fi/assets/drupal/2022-08/L1%20welcome.pdf)
+- [L2 overview of HMSC](https://www.helsinki.fi/assets/drupal/2022-08/L2%20overview%20of%20HMSC.pdf)
+
 *Break-out groups*
 
 Exercise 1. Apply the Hmsc pipeline to the provided case study data. Define a simplified Hmsc model (no traits, no phylogeny, no random effects), and follow the Hmsc pipeline to generate basic output on parameter estimates. Participants are encouraged to work independently, the teacher is there mainly to help if questions arise.
