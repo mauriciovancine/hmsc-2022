@@ -16,9 +16,29 @@ Slides
 - [L1 welcome](https://www.helsinki.fi/assets/drupal/2022-08/L1%20welcome.pdf)
 - [L2 overview of HMSC](https://www.helsinki.fi/assets/drupal/2022-08/L2%20overview%20of%20HMSC.pdf)
 
+Videos
+- [L1 welcome](https://youtu.be/USqztEnJxyw)
+- [L2 overview of HMSC | Introduction to case studied](https://youtu.be/qMZKYHcXoKw)
+- [R demonstration](https://youtu.be/duPLbotR054)
+
+Material
+- [Introduction to case studies](https://www.helsinki.fi/assets/drupal/2022-08/Introduction%20to%20case%20studies.pdf)
+- [Case study: Plants](https://www.dropbox.com/s/4oqs0p539j19yu5/case%20study%20plants.zip?dl=0)
+- [Case study: Birds](https://www.dropbox.com/s/cwp7euhanvjhqxi/case%20study%20birds.zip?dl=0)
+- [Case study: Fungi](https://www.dropbox.com/s/wa7zei3lkndp78e/case%20study%20fungi.zip?dl=0)
+- [Case study: Phenology](https://www.dropbox.com/s/jobahs38mh40eyg/case%20study%20phenology.zip?dl=0)
+- [How to apply the Hmsc pipeline](https://www.helsinki.fi/assets/drupal/2022-08/How%20to%20apply%20the%20Hmsc%20pipeline.pdf)
+- [Hmsc pipeline](https://www.dropbox.com/s/08ptxne82x7bpqd/Hmsc%20pipeline.zip?dl=0)
+
 *Break-out groups*
 
 Exercise 1. Apply the Hmsc pipeline to the provided case study data. Define a simplified Hmsc model (no traits, no phylogeny, no random effects), and follow the Hmsc pipeline to generate basic output on parameter estimates. Participants are encouraged to work independently, the teacher is there mainly to help if questions arise.
+
+Video
+- [Introduction to the case study to be used in the break-out groups](https://youtu.be/duPLbotR054?t=2520)
+
+Material
+- [Case study: Exercises]()
 
 ### Tuesday 16th August 2022
 
