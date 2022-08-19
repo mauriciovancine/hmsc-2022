@@ -60,12 +60,12 @@ Material
 
 Slides
 - [L3 fixed and random effects](https://www.helsinki.fi/assets/drupal/2022-08/L3%20fixed%20and%20random%20effects_160822.pdf)
-- [L4 lecture_by_Sara_Taskinen](https://www.helsinki.fi/assets/drupal/2022-08/L4_lecture_by_Sara_Taskinen.pdf)
+- [L4 lecture by Sara Taskinen](https://www.helsinki.fi/assets/drupal/2022-08/L4_lecture_by_Sara_Taskinen.pdf)
 
 Videos
 - [Recap of Exercise 1](https://youtu.be/N4nxpPLgx9M)
 - [L3 fixed and random effects](https://youtu.be/N4nxpPLgx9M?t=4682)
-- [L4 lecture_by_Sara_Taskinen](https://youtu.be/8lm3DErb2mY)
+- [L4 lecture by Sara Taskinen](https://youtu.be/8lm3DErb2mY)
 
 *Break-out groups*
 
