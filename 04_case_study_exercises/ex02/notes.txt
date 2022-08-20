@@ -1,0 +1,26 @@
+NOTES FOR TODAY
+
+-Update R to avoid errors (4.2.1 is latest version)
+
+-See Otso's email for tips on phylogeny and random effects
+-he uses 'tree' to mean sampling unit; your data sampling unit == 'id' (random effect)
+-'tree' == tree species (fixed effect; 4 species)
+
+-Depending on system settings, colnames(Y) may not match TrData$species
+#can use:
+is.equal(colnames(Y),TrData$species) #should be true; if not:   #your files may be named slightly differently, example code only:)
+TrData$species <- colnames(Y) 
+#row names of TrData need to be species names:
+rownames(TrData) <- TrData$species
+
+-see my Excel Hmsc data cheatsheet for formatting questions (will upload to chat)
+
+-to get results from a new model(s) today, move or delete yesterday's material from the 'models' and 'results' folders
+
+-why would you have a random effect of sampling unit (i.e. log or site)? We can discuss as a group
+
+
+studyDesign = data.frame(site=XData$site, id=XData$id)
+# RANDOM EFFECT STRUCTURE, HERE Site (hierarchical study design)
+rL.site = HmscRandomLevel(units = levels(studyDesign$site))
+

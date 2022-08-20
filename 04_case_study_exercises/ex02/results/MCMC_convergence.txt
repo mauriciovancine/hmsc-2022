@@ -1,0 +1,100 @@
+MCMC Convergennce statistics
+
+
+04_case_study_exercises/ex02/models/models_thin_1_samples_5_chains_4.Rdata
+
+
+presence-absence model
+
+
+beta
+
+Min.   : 0.9954  
+1st Qu.: 4.1480  
+Median : 6.4729  
+Mean   : 9.7986  
+3rd Qu.:10.7951  
+Max.   :98.4972  
+
+gamma
+
+Min.   :0.9064  
+1st Qu.:1.0021  
+Median :1.0865  
+Mean   :1.0970  
+3rd Qu.:1.1701  
+Max.   :1.5528  
+
+rho
+
+2.084109
+
+omega
+
+
+site
+
+Min.   : 1.151  
+1st Qu.: 3.632  
+Median : 6.388  
+Mean   : 7.752  
+3rd Qu.: 9.808  
+Max.   :33.499  
+
+id
+
+Min.   : 1.241  
+1st Qu.: 3.309  
+Median : 4.450  
+Mean   : 6.703  
+3rd Qu.: 7.963  
+Max.   :21.723  
+
+04_case_study_exercises/ex02/models/models_thin_1_samples_250_chains_4.Rdata
+
+
+presence-absence model
+
+
+beta
+
+Min.   :  0.9995  
+1st Qu.:  1.0292  
+Median :  1.1552  
+Mean   : 29.4721  
+3rd Qu.: 20.4119  
+Max.   :794.7259  
+
+gamma
+
+Min.   :0.9985  
+1st Qu.:1.0059  
+Median :1.0239  
+Mean   :1.0680  
+3rd Qu.:1.0764  
+Max.   :1.4510  
+
+rho
+
+1.516308
+
+omega
+
+
+site
+
+Min.   :1.131  
+1st Qu.:1.291  
+Median :1.391  
+Mean   :1.694  
+3rd Qu.:1.686  
+Max.   :7.969  
+
+id
+
+Min.   : 1.177  
+1st Qu.: 1.307  
+Median : 1.476  
+Mean   : 2.313  
+3rd Qu.: 1.812  
+Max.   :12.599  

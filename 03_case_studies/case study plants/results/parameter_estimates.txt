@@ -1,0 +1,8 @@
+This file contains additional information regarding parameter estimates. 
+ 
+ 
+03_case_studies/case study plants//models/models_thin_10_samples_250_chains_4.Rdata
+
+
+plants.pa.model
+

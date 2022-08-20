@@ -1,0 +1,34 @@
+# STUDY DESIGN
+studyDesign = data.frame(site=XData$site, id=XData$id)
+head(studyDesign)
+str(studyDesign)
+# RANDOM EFFECT STRUCTURE, HERE Site (hierarchical study design)
+rL.site = HmscRandomLevel(units = levels(studyDesign$site))
+rL.id = HmscRandomLevel(units = levels(studyDesign$id))
+rL.site
+rL.id
+# REGRESSION MODEL FOR ENVIRONMENTAL COVARIATES.
+XFormula = ~ tree+volume+decay+index
+# REGRESSION MODEL FOR TRAITS
+TrFormula = ~ fb+orn+shape+volume
+
+# PRESENCE-ABSENCE MODEL FOR INDIVIDUAL SPECIES (COMMON ONLY)
+m = Hmsc(Y=Y, XData = XData, XFormula = XFormula,
+TrData = TrData, TrFormula = TrFormula,
+phyloTree = taxonomicTree,
+distr="probit",
+studyDesign = studyDesign, ranLevels=list(site=rL.site, id = rL.id)) 
+
+
+
+#can use:
+is.equal(colnames(Y),TrData$species) #should be true; if not: #your files may be named slightly differently, example code only:)
+TrData$species <- colnames(Y)
+
+#row names of TrData need to be species names:
+rownames(TrData) <- TrData$species 
+
+
+taxonomicTree = as.phylo(~phylum/class/order/family/genus/species,data = TrData, collapse = FALSE)
+taxonomicTree$edge.length = rep(1,length(taxonomicTree$edge))
+plot(taxonomicTree,cex=0.5)

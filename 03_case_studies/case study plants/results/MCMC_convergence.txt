@@ -1,0 +1,86 @@
+MCMC Convergennce statistics
+
+
+03_case_studies/case study plants//models/models_thin_1_samples_5_chains_4.Rdata
+
+
+plants.pa.model
+
+
+beta
+
+Min.   : 0.969  
+1st Qu.: 1.479  
+Median : 2.347  
+Mean   : 3.099  
+3rd Qu.: 4.264  
+Max.   :12.445  
+
+gamma
+
+Min.   :2.151  
+1st Qu.:2.971  
+Median :3.455  
+Mean   :3.837  
+3rd Qu.:4.321  
+Max.   :6.285  
+
+rho
+
+1.45587
+
+03_case_studies/case study plants//models/models_thin_1_samples_250_chains_4.Rdata
+
+
+plants.pa.model
+
+
+beta
+
+Min.   :0.9989  
+1st Qu.:1.0100  
+Median :1.0288  
+Mean   :1.0435  
+3rd Qu.:1.0520  
+Max.   :1.3142  
+
+gamma
+
+Min.   :1.006  
+1st Qu.:1.009  
+Median :1.018  
+Mean   :1.020  
+3rd Qu.:1.029  
+Max.   :1.036  
+
+rho
+
+1.018782
+
+03_case_studies/case study plants//models/models_thin_10_samples_250_chains_4.Rdata
+
+
+plants.pa.model
+
+
+beta
+
+Min.   :0.998  
+1st Qu.:1.001  
+Median :1.003  
+Mean   :1.005  
+3rd Qu.:1.007  
+Max.   :1.034  
+
+gamma
+
+Min.   :0.9988  
+1st Qu.:0.9990  
+Median :1.0030  
+Mean   :1.0039  
+3rd Qu.:1.0079  
+Max.   :1.0109  
+
+rho
+
+1.000935
