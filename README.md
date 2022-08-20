@@ -123,6 +123,8 @@ Videos
 
 - Exercise 4. Continue from Exercise 3 by trying out different models and selecting among them.
 
+---
+
 ### Friday 19th August 2022
 
 *Plenary sessions*
