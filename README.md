@@ -6,6 +6,8 @@
 
 [site](https://www.helsinki.fi/en/researchgroups/statistical-ecology/software/hmsc)
 
+[YouTube](https://www.youtube.com/channel/UCgSflScNO81Nxw39rTLMZXw)
+
 ## Schedule
 
 ---
@@ -21,8 +23,8 @@
 - Lecture (by Otso Ovaskainen). Introduction to the case study to be used in the break-out groups.
 
 Slides
-- [L1 welcome](https://www.helsinki.fi/assets/drupal/2022-08/L1%20welcome.pdf)
-- [L2 overview of HMSC](https://www.helsinki.fi/assets/drupal/2022-08/L2%20overview%20of%20HMSC.pdf)
+- [L1 welcome](https://raw.githubusercontent.com/mauriciovancine/hmsc-2022/main/01_lectures/L1%20welcome.pdf)
+- [L2 overview of HMSC](https://raw.githubusercontent.com/mauriciovancine/hmsc-2022/main/01_lectures/L2%20overview%20of%20HMSC.pdf)
 
 Videos
 - [L1 welcome](https://youtu.be/USqztEnJxyw)
@@ -59,8 +61,8 @@ Material
 - Lecture (by Sara Taskinen): Using variational approximation for fast estimation of joint species distribution models with various response distributions (note: this lecture is not related to HMSC but to joint species distribution modelling more generally).
 
 Slides
-- [L3 fixed and random effects](https://www.helsinki.fi/assets/drupal/2022-08/L3%20fixed%20and%20random%20effects_160822.pdf)
-- [L4 lecture by Sara Taskinen](https://www.helsinki.fi/assets/drupal/2022-08/L4_lecture_by_Sara_Taskinen.pdf)
+- [L3 fixed and random effects](https://raw.githubusercontent.com/mauriciovancine/hmsc-2022/main/01_lectures/L3%20fixed%20and%20random%20effects.pdf)
+- [L4 lecture by Sara Taskinen](https://raw.githubusercontent.com/mauriciovancine/hmsc-2022/main/01_lectures/L4%20lecture%20by%20Sara%20Taskinen.pdf)
 
 Videos
 - [Recap of Exercise 1](https://youtu.be/N4nxpPLgx9M)
@@ -85,11 +87,12 @@ Exercise 2. Continue from Exercise 1 by defining a full HMSC model (with traits,
 - R demonstration (by Gleb Tikhonov). How to modify the prior distributions and make choices related to posterior sampling.
 
 Slides
-- [L5 How is HMSC fitted to data](https://www.helsinki.fi/assets/drupal/2022-08/L5_How%20is%20HMSC%20fitted%20to%20data.pdf)
+- [L5 How is HMSC fitted to data by Gleb Tikhonov](https://raw.githubusercontent.com/mauriciovancine/hmsc-2022/main/01_lectures/L5%20How%20is%20HMSC%20fitted%20to%20data.pdf)
 
 Videos
 - [Recap of Exercise 2](https://youtu.be/_zylFuNq7Pk)
-- [L5 How is HMSC fitted to data](https://youtu.be/N4nxpPLgx9M?t=4682)
+- [L5 How is HMSC fitted to data by Gleb Tikhonov (Part 1)](https://youtu.be/2y7NnEEGFcc)
+- [L5 How is HMSC fitted to data by Gleb Tikhonov (Part 2)](https://youtu.be/qLeQy8l_H_k)
 
 *Break-out groups*
 
@@ -108,17 +111,17 @@ Videos
 - Lecture and R demonstration (by Otso Ovaskainen). Variable selection, reduced rank regression, and other methods to deal with cases with many potential covariates.
 
 Slides
-- [L6](https://www.helsinki.fi/assets/drupal/2022-08/L5_How%20is%20HMSC%20fitted%20to%20data.pdf)
+- [L6](https://raw.githubusercontent.com/mauriciovancine/hmsc-2022/main/01_lectures/L6%20model%20selection.pdf)
 
 Videos
 - [Recap of Exercise 3](https://youtu.be/ly2-8uEJ5HI)
-- [L6](https://youtu.be/8lm3DErb2mY)
+- [L6 model selection](https://youtu.be/LIYsdagKQ6E)
 
 *Break-out groups*
 
 - Exercise 4. Continue from Exercise 3 by trying out different models and selecting among them.
 
-Friday 19th August 2022
+### Friday 19th August 2022
 
 *Plenary sessions*
 
@@ -127,11 +130,11 @@ Friday 19th August 2022
 - Discussion session. Based, e.g., on questions that came up during lectures and/or break-out groups that could not have been addressed there.
 
 Slides
-- [L7](https://www.helsinki.fi/assets/drupal/2022-08/L5_How%20is%20HMSC%20fitted%20to%20data.pdf)
+- [L7 ongoing developments](https://raw.githubusercontent.com/mauriciovancine/hmsc-2022/main/01_lectures/L7%20ongoing%20developments.pdf)
 
 Videos
 - [Recap of Exercise 4](https://youtu.be/nZy-ic6j4bI)
-- [L7](https://youtu.be/N4nxpPLgx9M?t=4682)
+- [L7 ongoing developments]()
 
 *Break-out groups*
 
