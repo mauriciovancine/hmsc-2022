@@ -6,6 +6,8 @@
 
 [site](https://www.helsinki.fi/en/researchgroups/statistical-ecology/software/hmsc)
 
+### YouTube
+
 [YouTube](https://www.youtube.com/channel/UCgSflScNO81Nxw39rTLMZXw)
 
 ## Schedule
@@ -139,5 +141,9 @@ Videos
 *Break-out groups*
 
 - In the break-out groups, discussions on topics suggested by the participants, including guidance on working with their own data.
+
+---
+
+[HMSC 2020](https://github.com/mauriciovancine/hmsc-2020)
 
 ---
