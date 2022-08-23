@@ -138,7 +138,7 @@ Slides
 
 Videos
 - [Recap of Exercise 4](https://youtu.be/nZy-ic6j4bI)
-- [L7 ongoing developments]()
+- [L7 ongoing developments](https://youtu.be/73RxTPcuSXY)
 
 *Break-out groups*
 
