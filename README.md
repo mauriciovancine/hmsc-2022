@@ -89,7 +89,7 @@ Exercise 2. Continue from Exercise 1 by defining a full HMSC model (with traits,
 - R demonstration (by Gleb Tikhonov). How to modify the prior distributions and make choices related to posterior sampling.
 
 Slides
-- [L5 How is HMSC fitted to data by Gleb Tikhonov](https://raw.githubusercontent.com/mauriciovancine/hmsc-2022/main/01_lectures/L5%20How%20is%20HMSC%20fitted%20to%20data.pdf)
+- [L5 How is HMSC fitted to data by Gleb Tikhonov](https://raw.githubusercontent.com/mauriciovancine/hmsc-2022/main/01_lectures/L5%20How%20is%20HMSC%20fitted%20to%20data%20by%20Gleb%20Tikhonov.pdf)
 
 Videos
 - [Recap of Exercise 2](https://youtu.be/_zylFuNq7Pk)
