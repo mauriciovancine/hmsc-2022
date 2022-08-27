@@ -113,7 +113,7 @@ Videos
 - Lecture and R demonstration (by Otso Ovaskainen). Variable selection, reduced rank regression, and other methods to deal with cases with many potential covariates.
 
 Slides
-- [L6](https://raw.githubusercontent.com/mauriciovancine/hmsc-2022/main/01_lectures/L6%20model%20selection.pdf)
+- [L6 model selection](https://raw.githubusercontent.com/mauriciovancine/hmsc-2022/main/01_lectures/L6%20model%20selection.pdf)
 
 Videos
 - [Recap of Exercise 3](https://youtu.be/ly2-8uEJ5HI)
